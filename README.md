@@ -10,7 +10,7 @@ Hi there 👋
 
 📫 How to reach me: https://www.linkedin.com/in/nijin-p-s-0b014b198/
 
-⚡ Fun fact: I work and learn at the same time :p
+⚡ Fun fact: I work and learn at the same time 😜
 
 <!---
 Nijin-P-S/Nijin-P-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
