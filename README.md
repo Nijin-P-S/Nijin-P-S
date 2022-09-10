@@ -1,7 +1,5 @@
 Hi there 👋
 
-🔭 I’m currently working as Assistant System Engineer at TCS
-
 🌱 I’m constantly learning new things in backend development
 
 👯 I’m looking to collaborate on solving technically complex problems
